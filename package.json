@@ -4,7 +4,7 @@
     "ios": "react-native run-ios",
     "web": "expo start --web",
     "start": "react-native start",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
     "@types/styled-components": "^4.4.3",
